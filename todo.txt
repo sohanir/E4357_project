@@ -1,0 +1,6 @@
+1. Figure out the communication interface for LCD display : 16x2shd-01 OSEPP
+2. Find libraries for the LCD/Keypad
+3. Optical sensor 
+4. Websocket is a phase 2 of the project?
+5. Combine two mbeds?
+6. cc300?
