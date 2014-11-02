@@ -4,3 +4,7 @@
 4. Websocket is a phase 2 of the project?
 5. Combine two mbeds?
 6. cc300?
+
+To learn:
+try and understand Serial communication to PC
+
