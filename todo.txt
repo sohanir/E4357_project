@@ -7,4 +7,6 @@
 
 To learn:
 try and understand Serial communication to PC
-
+check on accelerometer in book. can you get the same in fry's?
+difference between mbed libraries and libraries in book to talk to accelerometer?
+try OCD
